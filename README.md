@@ -5,7 +5,9 @@ email: carl.hung@yahoo.com
 
 The project is a bluetooth door lock/strike built by arduino.
 
+----------------------------
 Parts you need:
+----------------------------
 
 arduino mini pro 3.3v
 
