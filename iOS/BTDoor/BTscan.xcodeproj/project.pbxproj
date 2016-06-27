@@ -10,7 +10,7 @@
 		C33AACF91D17C7A9008E3997 /* SavedDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33AACF81D17C7A9008E3997 /* SavedDevice.swift */; };
 		C33AACFB1D17CA70008E3997 /* SavedListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33AACFA1D17CA70008E3997 /* SavedListTableViewController.swift */; };
 		C33AACFF1D17E6C1008E3997 /* SavedDeviceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C33AACFE1D17E6C1008E3997 /* SavedDeviceTableViewCell.swift */; };
-		C3AEB4BC1D1A950C00B7E6CD /* ExtensionsForArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3AEB4BB1D1A950C00B7E6CD /* ExtensionsForArray.swift */; };
+		C3AD234E1D2129A900537EB4 /* ExtensionsForArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3AD234D1D2129A900537EB4 /* ExtensionsForArray.swift */; };
 		C3AEB4BE1D1B92CC00B7E6CD /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3AEB4BD1D1B92CC00B7E6CD /* CheckBox.swift */; };
 		C3C244071D0D105C006F9421 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C244061D0D105C006F9421 /* AppDelegate.swift */; };
 		C3C2440C1D0D105C006F9421 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C2440A1D0D105C006F9421 /* Main.storyboard */; };
@@ -29,7 +29,7 @@
 		C33AACF81D17C7A9008E3997 /* SavedDevice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SavedDevice.swift; sourceTree = "<group>"; };
 		C33AACFA1D17CA70008E3997 /* SavedListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SavedListTableViewController.swift; sourceTree = "<group>"; };
 		C33AACFE1D17E6C1008E3997 /* SavedDeviceTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SavedDeviceTableViewCell.swift; sourceTree = "<group>"; };
-		C3AEB4BB1D1A950C00B7E6CD /* ExtensionsForArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExtensionsForArray.swift; path = ../ExtensionsForArray.swift; sourceTree = "<group>"; };
+		C3AD234D1D2129A900537EB4 /* ExtensionsForArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionsForArray.swift; sourceTree = "<group>"; };
 		C3AEB4BD1D1B92CC00B7E6CD /* CheckBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 		C3C244031D0D105C006F9421 /* BTscan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BTscan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3C244061D0D105C006F9421 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -76,10 +76,10 @@
 		C3C244051D0D105C006F9421 /* BTscan */ = {
 			isa = PBXGroup;
 			children = (
-				C3AEB4BB1D1A950C00B7E6CD /* ExtensionsForArray.swift */,
 				C33AACFA1D17CA70008E3997 /* SavedListTableViewController.swift */,
 				C33AACFE1D17E6C1008E3997 /* SavedDeviceTableViewCell.swift */,
 				C3C2441A1D0D1C9C006F9421 /* ScanTableViewController.swift */,
+				C3AD234D1D2129A900537EB4 /* ExtensionsForArray.swift */,
 				C3C244421D0FC47D006F9421 /* BTDeviceConfigViewController.swift */,
 				C3C2444A1D113E60006F9421 /* BTCharDetailsViewController.swift */,
 				C3C244441D0FCF21006F9421 /* BTServiceInfo.swift */,
@@ -181,7 +181,7 @@
 				C3AEB4BE1D1B92CC00B7E6CD /* CheckBox.swift in Sources */,
 				C3C244071D0D105C006F9421 /* AppDelegate.swift in Sources */,
 				C33AACFB1D17CA70008E3997 /* SavedListTableViewController.swift in Sources */,
-				C3AEB4BC1D1A950C00B7E6CD /* ExtensionsForArray.swift in Sources */,
+				C3AD234E1D2129A900537EB4 /* ExtensionsForArray.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
